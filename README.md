@@ -1,4 +1,2 @@
-# JonRivera.github.io
-visualizations
-notebooks
-raw_data
+# Covid 19 Exploratory Project
+# Build on Jonrivera.github.io
